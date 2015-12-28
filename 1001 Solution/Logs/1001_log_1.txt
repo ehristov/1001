@@ -1,0 +1,150 @@
+2015-12-26 01:32:10 [wakanda.supervisor] INFO - solution closed
+2015-12-26 01:32:10 [wakanda] INFO - Opens the solution "C:\Users\Encho\Documents\Wakanda\1001\1001 Solution\1001.waSolution" for running
+2015-12-26 01:32:10 [wakanda.1001] INFO - Users and groups directory opened
+2015-12-26 01:32:10 [wakanda.1001.1001] INFO - Datastore opened
+2015-12-26 01:32:10 [wakanda.1001.1001] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2015-12-26 01:32:10 [wakanda.1001.1001] INFO - "1001" project opened
+2015-12-26 01:32:10 [wakanda.1001.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"bothButHTTPLocalOnly"}
+2015-12-26 01:32:10 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project opened
+2015-12-26 01:32:10 [wakanda.1001] INFO - "1001" solution opened
+2015-12-26 01:32:10 [wakanda] INFO - Starts "1001" solution
+2015-12-26 01:32:10 [wakanda.1001.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2015-12-26 01:32:10 [wakanda.1001.ServerAdmin] INFO - HTTP Server started
+2015-12-26 01:32:10 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project started
+2015-12-26 01:32:11 [wakanda.1001.1001] INFO - HTTP Server started
+2015-12-26 01:32:11 [wakanda.1001.1001] INFO - "1001" project started
+2015-12-26 01:32:11 [wakanda.1001.ServerAdmin] INFO - Executes the bootstrap file(s)
+2015-12-26 01:32:11 [wakanda.1001.ServerAdmin] INFO - Bootstrap file(s) executed
+2015-12-26 01:32:11 [wakanda.1001.1001] INFO - Executes the bootstrap file(s)
+2015-12-26 01:32:11 [wakanda.1001.1001] INFO - Bootstrap file(s) executed
+2015-12-26 01:32:11 [wakanda.1001] INFO - "1001" solution started
+2015-12-26 01:32:11 [wakanda] INFO - "1001" solution has been successfully opened for running (duration: 856 ms)
+2015-12-26 01:32:11 [wakanda.supervisor] INFO - solution opened
+2015-12-26 01:33:35 [wakanda.1001.1001] INFO - Datastore model reloaded
+2015-12-26 01:55:07 [wakanda.1001.ServerAdmin] INFO -  created 
+2015-12-26 01:55:07 [wakanda] INFO - Stops "1001" solution
+2015-12-26 01:55:08 [wakanda.1001.1001] INFO - "1001" project stopped
+2015-12-26 01:55:09 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project stopped
+2015-12-26 01:55:09 [wakanda.1001] INFO - "1001" solution stopped
+2015-12-26 01:55:09 [wakanda] INFO - Closes "1001" solution
+2015-12-26 01:55:10 [wakanda.1001.1001] INFO - "1001" project closed
+2015-12-26 01:55:10 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project closed
+2015-12-26 01:55:10 [wakanda.1001] INFO - "1001" solution closed
+2015-12-26 01:55:10 [wakanda.1001] INFO - Users and groups directory opened
+2015-12-26 01:55:10 [wakanda.1001.1001] INFO - Datastore opened
+2015-12-26 01:55:10 [wakanda.1001.1001] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2015-12-26 01:55:10 [wakanda.1001.1001] INFO - "1001" project opened
+2015-12-26 01:55:10 [wakanda.1001.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"bothButHTTPLocalOnly"}
+2015-12-26 01:55:10 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project opened
+2015-12-26 01:55:10 [wakanda.1001] INFO - "1001" solution opened
+2015-12-26 01:55:10 [wakanda] INFO - Starts "1001" solution
+2015-12-26 01:55:11 [wakanda.1001.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2015-12-26 01:55:11 [wakanda.1001.ServerAdmin] INFO - HTTP Server started
+2015-12-26 01:55:11 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project started
+2015-12-26 01:55:11 [wakanda.1001.1001] INFO - HTTP Server started
+2015-12-26 01:55:11 [wakanda.1001.1001] INFO - "1001" project started
+2015-12-26 01:55:11 [wakanda.1001.ServerAdmin] INFO - Executes the bootstrap file(s)
+2015-12-26 01:55:11 [wakanda.1001.ServerAdmin] INFO - Bootstrap file(s) executed
+2015-12-26 01:55:11 [wakanda.1001.1001] INFO - Executes the bootstrap file(s)
+2015-12-26 01:55:11 [wakanda.1001.1001] INFO - Bootstrap file(s) executed
+2015-12-26 01:55:11 [wakanda.1001] INFO - "1001" solution started
+2015-12-26 01:55:11 [wakanda] INFO - "1001" solution has been successfully opened for running (duration: 861 ms)
+2015-12-26 01:55:11 [wakanda.supervisor] INFO - solution opened
+2015-12-26 14:04:11 [wakanda.1001.ServerAdmin] INFO -  created 
+2015-12-26 14:04:12 [wakanda] INFO - Stops "1001" solution
+2015-12-26 14:04:13 [wakanda.1001.1001] INFO - "1001" project stopped
+2015-12-26 14:04:14 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project stopped
+2015-12-26 14:04:14 [wakanda.1001] INFO - "1001" solution stopped
+2015-12-26 14:04:14 [wakanda] INFO - Closes "1001" solution
+2015-12-26 14:04:14 [wakanda.1001.1001] INFO - "1001" project closed
+2015-12-26 14:04:14 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project closed
+2015-12-26 14:04:15 [wakanda.1001] INFO - "1001" solution closed
+2015-12-26 22:31:25 [wakanda.1001] INFO - Users and groups directory opened
+2015-12-26 22:31:25 [wakanda.1001.1001] INFO - Datastore opened
+2015-12-26 22:31:25 [wakanda.1001.1001] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2015-12-26 22:31:25 [wakanda.1001.1001] INFO - "1001" project opened
+2015-12-26 22:31:26 [wakanda.1001.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"bothButHTTPLocalOnly"}
+2015-12-26 22:31:26 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project opened
+2015-12-26 22:31:26 [wakanda.1001] INFO - "1001" solution opened
+2015-12-26 22:31:26 [wakanda] INFO - Starts "1001" solution
+2015-12-26 22:31:27 [wakanda.1001.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2015-12-26 22:31:27 [wakanda.1001.ServerAdmin] INFO - HTTP Server started
+2015-12-26 22:31:27 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project started
+2015-12-26 22:31:27 [wakanda.1001.1001] INFO - HTTP Server started
+2015-12-26 22:31:27 [wakanda.1001.1001] INFO - "1001" project started
+2015-12-26 22:31:27 [wakanda.1001.ServerAdmin] INFO - Executes the bootstrap file(s)
+2015-12-26 22:31:27 [wakanda.1001.ServerAdmin] INFO - Bootstrap file(s) executed
+2015-12-26 22:31:27 [wakanda.1001.1001] INFO - Executes the bootstrap file(s)
+2015-12-26 22:31:27 [wakanda.1001.1001] INFO - Bootstrap file(s) executed
+2015-12-26 22:31:27 [wakanda.1001] INFO - "1001" solution started
+2015-12-26 22:31:27 [wakanda] INFO - "1001" solution has been successfully opened for running (duration: 2353 ms)
+2015-12-26 22:31:27 [wakanda.supervisor] INFO - solution opened
+2015-12-26 23:23:06 [wakanda.1001.ServerAdmin] INFO -  created 
+2015-12-26 23:23:06 [wakanda] INFO - Stops "1001" solution
+2015-12-26 23:23:07 [wakanda.1001.1001] INFO - "1001" project stopped
+2015-12-26 23:23:08 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project stopped
+2015-12-26 23:23:08 [wakanda.1001] INFO - "1001" solution stopped
+2015-12-26 23:23:08 [wakanda] INFO - Closes "1001" solution
+2015-12-26 23:23:08 [wakanda.1001.1001] INFO - "1001" project closed
+2015-12-26 23:23:09 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project closed
+2015-12-26 23:23:09 [wakanda.1001] INFO - "1001" solution closed
+2015-12-26 23:48:27 [wakanda.1001] INFO - Users and groups directory opened
+2015-12-26 23:48:27 [wakanda.1001.1001] INFO - Datastore opened
+2015-12-26 23:48:27 [wakanda.1001.1001] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2015-12-26 23:48:27 [wakanda.1001.1001] INFO - "1001" project opened
+2015-12-26 23:48:27 [wakanda.1001.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"bothButHTTPLocalOnly"}
+2015-12-26 23:48:27 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project opened
+2015-12-26 23:48:27 [wakanda.1001] INFO - "1001" solution opened
+2015-12-26 23:48:27 [wakanda] INFO - Starts "1001" solution
+2015-12-26 23:48:28 [wakanda.1001.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2015-12-26 23:48:28 [wakanda.1001.ServerAdmin.iasv] ERROR - [1034] Cannot start the HTTP Server, task #8488
+2015-12-26 23:48:28 [wakanda.1001.ServerAdmin] WARN - "ServerAdmin" project started with errors
+2015-12-26 23:48:28 [wakanda.1001.iasv] ERROR - [1014] Cannot start 'ServerAdmin' project, task #8488
+2015-12-26 23:48:28 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project stopped
+2015-12-26 23:48:28 [wakanda.1001] WARN - "1001" solution started with errors
+2015-12-26 23:48:28 [wakanda.1001] INFO - "1001" solution stopped
+2015-12-26 23:48:28 [wakanda.1001.1001] INFO - "1001" project closed
+2015-12-26 23:48:28 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project closed
+2015-12-26 23:48:29 [wakanda.1001] INFO - "1001" solution closed
+2015-12-26 23:48:58 [wakanda.supervisor] INFO - solution closed
+2015-12-26 23:48:58 [wakanda] INFO - Opens the solution "C:\Users\Encho\Documents\Wakanda\1001\1001 Solution\1001.waSolution" for running
+2015-12-26 23:48:58 [wakanda.1001] INFO - Users and groups directory opened
+2015-12-26 23:48:58 [wakanda.1001.1001] INFO - Datastore opened
+2015-12-26 23:48:58 [wakanda.1001.1001] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2015-12-26 23:48:58 [wakanda.1001.1001] INFO - "1001" project opened
+2015-12-26 23:48:58 [wakanda.1001.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"bothButHTTPLocalOnly"}
+2015-12-26 23:48:58 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project opened
+2015-12-26 23:48:58 [wakanda.1001] INFO - "1001" solution opened
+2015-12-26 23:48:58 [wakanda] INFO - Starts "1001" solution
+2015-12-26 23:48:59 [wakanda.1001.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2015-12-26 23:48:59 [wakanda.1001.ServerAdmin.iasv] ERROR - [1034] Cannot start the HTTP Server, task #9560
+2015-12-26 23:48:59 [wakanda.1001.ServerAdmin] WARN - "ServerAdmin" project started with errors
+2015-12-26 23:48:59 [wakanda.1001.iasv] ERROR - [1014] Cannot start 'ServerAdmin' project, task #9560
+2015-12-26 23:48:59 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project stopped
+2015-12-26 23:48:59 [wakanda.1001] WARN - "1001" solution started with errors
+2015-12-26 23:48:59 [wakanda.1001] INFO - "1001" solution stopped
+2015-12-26 23:49:00 [wakanda.1001.1001] INFO - "1001" project closed
+2015-12-26 23:49:00 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project closed
+2015-12-26 23:49:00 [wakanda.1001] INFO - "1001" solution closed
+2015-12-26 23:52:10 [wakanda.supervisor] INFO - solution closed
+2015-12-26 23:52:10 [wakanda] INFO - Opens the solution "C:\Users\Encho\Documents\Wakanda\1001\1001 Solution\1001.waSolution" for running
+2015-12-26 23:52:10 [wakanda.1001] INFO - Users and groups directory opened
+2015-12-26 23:52:10 [wakanda.1001.1001] INFO - Datastore opened
+2015-12-26 23:52:10 [wakanda.1001.1001] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2015-12-26 23:52:10 [wakanda.1001.1001] INFO - "1001" project opened
+2015-12-26 23:52:10 [wakanda.1001.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"bothButHTTPLocalOnly"}
+2015-12-26 23:52:10 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project opened
+2015-12-26 23:52:10 [wakanda.1001] INFO - "1001" solution opened
+2015-12-26 23:52:10 [wakanda] INFO - Starts "1001" solution
+2015-12-26 23:52:11 [wakanda.1001.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2015-12-26 23:52:11 [wakanda.1001.ServerAdmin] INFO - HTTP Server started
+2015-12-26 23:52:11 [wakanda.1001.ServerAdmin] INFO - "ServerAdmin" project started
+2015-12-26 23:52:11 [wakanda.1001.1001] INFO - HTTP Server started
+2015-12-26 23:52:11 [wakanda.1001.1001] INFO - "1001" project started
+2015-12-26 23:52:11 [wakanda.1001.ServerAdmin] INFO - Executes the bootstrap file(s)
+2015-12-26 23:52:11 [wakanda.1001.ServerAdmin] INFO - Bootstrap file(s) executed
+2015-12-26 23:52:11 [wakanda.1001.1001] INFO - Executes the bootstrap file(s)
+2015-12-26 23:52:11 [wakanda.1001.1001] INFO - Bootstrap file(s) executed
+2015-12-26 23:52:11 [wakanda.1001] INFO - "1001" solution started
+2015-12-26 23:52:11 [wakanda] INFO - "1001" solution has been successfully opened for running (duration: 779 ms)
+2015-12-26 23:52:11 [wakanda.supervisor] INFO - solution opened
