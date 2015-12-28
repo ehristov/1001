@@ -1,0 +1,21 @@
+#Version: 1.0
+#Software: Wakanda/11 build 11.195328 (Windows-x64)
+#Date: 2015-12-26 01:40:55
+#Remark: format ELF
+#Fields: BYTES_SENT CS-CDNS C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP SC-STATUS CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME TIME-TAKEN
+1017 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/ - /app/ 2015-12-26 00:40:55 00:40:55 52
+220 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/styles/style.css - /app/styles/style.css 2015-12-26 00:40:55 00:40:55 1
+23167 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /bower_components/angular-wakanda/angular-wakanda.min.js - /bower_components/angular-wakanda/angular-wakanda.min.js 2015-12-26 00:40:55 00:40:55 41
+27998 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /bower_components/bootstrap-css/css/bootstrap.css - /bower_components/bootstrap-css/css/bootstrap.css 2015-12-26 00:40:55 00:40:55 100
+764 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/scripts/app.js - /app/scripts/app.js 2015-12-26 00:40:55 00:40:55 2
+28445 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/images/wakanda.png - /app/images/wakanda.png 2015-12-26 00:40:55 00:40:55 15
+321700 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /bower_components/angular/angular.js - /bower_components/angular/angular.js 2015-12-26 00:40:55 00:40:55 157
+2 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2015-12-26 00:40:56 00:40:56 100
+1017 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/ - /app/ 2015-12-26 00:41:10 00:41:10 1
+2 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2015-12-26 00:41:10 00:41:10 1
+1017 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/ - /app/ 2015-12-26 00:41:26 00:41:26 2
+2 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2015-12-26 00:41:27 00:41:27 1
+1017 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/ - /app/ 2015-12-26 00:47:03 00:47:03 1
+2 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2015-12-26 00:47:03 00:47:03 0
+1017 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /app/ - /app/ 2015-12-26 00:47:59 00:47:59 2
+2 127.0.0.1 127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/app/" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/534+ (KHTML, like Gecko)" - GET 127.0.0.1 200 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2015-12-26 00:47:59 00:47:59 0

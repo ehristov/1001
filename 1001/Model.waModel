@@ -1,0 +1,39 @@
+{
+	"toJSON": true,
+	"extraProperties": {
+		"version": "2",
+		"classes": {
+			"Company": {
+				"panelColor": "#BFBFBF",
+				"panel": {
+					"isOpen": "true",
+					"position": {
+						"X": 25,
+						"Y": 20
+					}
+				}
+			}
+		},
+		"model": {
+			"scriptMode": "manual",
+			"workspaceLeft": 0,
+			"workspaceTop": 0
+		}
+	},
+	"dataClasses": [
+		{
+			"collectionName": "CompanyCollection",
+			"className": "Company",
+			"attributes": [
+				{
+					"name": "ID",
+					"kind": "storage",
+					"type": "long",
+					"autosequence": "true",
+					"unique": "true",
+					"primKey": "true"
+				}
+			]
+		}
+	]
+}
